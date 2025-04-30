@@ -1,3 +1,4 @@
+
 # jQuery Paginatable Plugin
 
 A powerful and feature-rich jQuery pagination plugin that provides table pagination, sorting, filtering, and export functionality with state persistence.
@@ -12,6 +13,9 @@ A powerful and feature-rich jQuery pagination plugin that provides table paginat
 - 🎨 Customizable styling
 - 🔧 Configurable filters
 - 📱 Responsive design
+## Screenshots
+
+![Screenshot 2025-05-01 003715](https://github.com/user-attachments/assets/0b8657d9-0c8e-4c3e-b9df-c775c4a833e9)
 
 ## Installation
 
